@@ -372,14 +372,7 @@ If you encounter any bugs or have suggestions for new features, please [open an 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
 
-Huynh Thien Phu - [@kelvin_hnh](https://twitter.com/kelvin_hnh) - phuhuynh197@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
